@@ -1,0 +1,47 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(TM) Graphics 540 (ID=0x1926)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\arthu\Documents\Master Two\G_Unity + Basic Programming\Tower Defense\Build\TD2D_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\arthu\Documents\Master Two\G_Unity + Basic Programming\Tower Defense\Build\TD2D_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\arthu\Documents\Master Two\G_Unity + Basic Programming\Tower Defense\Build\TD2D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\arthu\Documents\Master Two\G_Unity + Basic Programming\Tower Defense\Build\TD2D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\arthu\Documents\Master Two\G_Unity + Basic Programming\Tower Defense\Build\TD2D_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\arthu\Documents\Master Two\G_Unity + Basic Programming\Tower Defense\Build\TD2D_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\arthu\Documents\Master Two\G_Unity + Basic Programming\Tower Defense\Build\TD2D_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\arthu\Documents\Master Two\G_Unity + Basic Programming\Tower Defense\Build\TD2D_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.123 seconds
+Platform assembly: C:\Users\arthu\Documents\Master Two\G_Unity + Basic Programming\Tower Defense\Build\TD2D_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\arthu\Documents\Master Two\G_Unity + Basic Programming\Tower Defense\Build\TD2D_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1380 at -1920,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.744231 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.846374 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1236.
+Total: 0.549564 ms (FindLiveObjects: 0.047768 ms CreateObjectMapping: 0.036637 ms MarkObjects: 0.458666 ms  DeleteObjects: 0.006028 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.885796 ms
+
+Unloading 411 unused Assets to reduce memory usage. Loaded Objects now: 1105.
+Total: 0.652521 ms (FindLiveObjects: 0.057043 ms CreateObjectMapping: 0.057970 ms MarkObjects: 0.400695 ms  DeleteObjects: 0.136347 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.656695 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1105.
+Total: 0.598724 ms (FindLiveObjects: 0.094144 ms CreateObjectMapping: 0.053333 ms MarkObjects: 0.443825 ms  DeleteObjects: 0.005565 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1784 -> priority: 1 
+  Thread -> id: 1dac -> priority: 1 
